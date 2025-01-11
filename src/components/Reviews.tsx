@@ -9,7 +9,7 @@ export const Reviews = () => {
       name: "Shounak Chandra",
       position: "Intern @ Ericsson | Software Developer | AR/VR, Game Dev & DevOps Enthusiast | AWS Geek | Ex-Blockchain Developer @ Cubane | Oracle Certified Professional",
       image: "https://media.licdn.com/dms/image/v2/D5603AQEnQwM66gcJNQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1704660465223?e=1741824000&v=beta&t=RflMZfE7H8iwELFICS7Uqbv9Ts_dyjAjMHpJlc_oZ_k",
-      text: "I had the privilege of collaborating with Shaurya Srinet on numerous projects and hackathons, an experience that truly highlighted his exceptional teamwork and leadership qualities. Shaurya's ability to seamlessly integrate into diverse teams and drive collective success was evident in every endeavor we undertook together. During our collaborations, Shaurya's leadership was pivotal. His strategic approach and dedication were instrumental in guiding our teams towards successful outcomes. His ability to inspire and navigate challenges made him an invaluable asset, enhancing our team dynamics and productivity significantly. Shaurya's positive influence and supportive nature significantly enhanced our team dynamics, making our collaborative efforts not only productive but also enjoyable.",
+      text: "Shaurya Srinet is a powerhouse of talent and leadership. Having worked alongside him on numerous projects and hackathons, I’ve witnessed firsthand his unmatched ability to drive teams toward extraordinary success. Shaurya doesn’t just lead; he commands with vision, precision, and an unrelenting drive for excellence. His strategic brilliance and ability to solve challenges with ease make him an unstoppable force. If you’re lucky enough to work with Shaurya, prepare to have your expectations shattered—in the best way possible. This is a leader who defines what it means to dominate and deliver.",
       connection: "Worked together at SRMIST"
     },
     {
@@ -20,18 +20,18 @@ export const Reviews = () => {
       connection: "Worked together at Stick & Dot"
     },
     {
-      name: "Charvi Jain",
-      position: "AI/ML Engineer | Building Smarter, Scalable Solutions",
-      image: "https://media.licdn.com/dms/image/v2/D5603AQFw_YpC2H4QuA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1720300671687?e=1741824000&v=beta&t=ylZvFd7Uou7XZXFvjjQCJAlwPWpi3KoQZ0mqSHx4SO8",
-      text: "I had the privilege of collaborating with Shaurya Srinet on numerous projects and hackathons, an experience that truly highlighted his exceptional teamwork and leadership qualities. Shaurya's ability to seamlessly integrate into diverse teams and drive collective success was evident in every endeavor we undertook together. During our collaborations, Shaurya's leadership was pivotal. His strategic approach and dedication were instrumental in guiding our teams towards successful outcomes. His ability to inspire and navigate challenges made him an invaluable asset, enhancing our team dynamics and productivity significantly. Shaurya's positive influence and supportive nature significantly enhanced our team dynamics, making our collaborative efforts not only productive but also enjoyable.",
-      connection: "Worked together at SRMIST"
-    },
-    {
       name: "Shinjan P ",
       position: " building stuff | sde - ai @ Ionio.ai | gen.ai, saas products",
       image: "https://media.licdn.com/dms/image/v2/D5603AQGXDzb5fZB76w/profile-displayphoto-shrink_400_400/B56ZRBuQifHoAk-/0/1736269433512?e=1741824000&v=beta&t=a7388faNlcI3YMh_cCAhsP8QuH_1rRksyhQFewPi950",
       text: "During our time working together on IoT and ML projects at dBug Labs, I've been consistently struck by Shaurya's remarkable intellectual prowess, unwavering dedication to his work, and a deep-rooted passion for Computer Science. His unique blend of creative and analytical skills in tackling complex problems is truly noteworthy. Shaurya excels not only academically but also shines as a proactive member of various technical groups, infusing our academic circles with a spirit of positivity and teamwork. I am confident in recommending Shaurya Srinet to any future employer or academic program within the IT realm. His solid integrity, commendable character, and steadfast commitment set him up as an exceptional senior, poised for significant achievements in his future endeavors!",
       connection: "Worked together at DBug Labs, SRM"
+    },
+    {
+      name: "Charvi Jain",
+      position: "AI/ML Engineer | Building Smarter, Scalable Solutions",
+      image: "https://media.licdn.com/dms/image/v2/D5603AQFw_YpC2H4QuA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1720300671687?e=1741824000&v=beta&t=ylZvFd7Uou7XZXFvjjQCJAlwPWpi3KoQZ0mqSHx4SO8",
+      text: "I had the privilege of collaborating with Shaurya Srinet on numerous projects and hackathons, where his exceptional teamwork, leadership qualities, and ability to seamlessly integrate into diverse teams stood out. Shaurya's strategic approach and dedication were pivotal in guiding our teams toward success, and his ability to inspire and navigate challenges made him an invaluable asset. His positive influence and supportive nature greatly enhanced team dynamics, making our collaborative efforts both productive and enjoyable.",
+      connection: "Worked together at SRMIST"
     },
     {
       name: "Mohit Kumar Kushwaha",
