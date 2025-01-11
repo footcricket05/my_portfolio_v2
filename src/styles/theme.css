@@ -1,0 +1,59 @@
+/* Theme Variables */
+.theme-light {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f3f4f6;
+  --text-primary: #111827;
+  --text-secondary: #4b5563;
+}
+
+.theme-dark {
+  --bg-primary: #111827;
+  --bg-secondary: #1f2937;
+  --text-primary: #f9fafb;
+  --text-secondary: #d1d5db;
+}
+
+.theme-dim {
+  --bg-primary: #1a202c;
+  --bg-secondary: #2d3748;
+  --text-primary: #e2e8f0;
+  --text-secondary: #a0aec0;
+}
+
+/* Font Sizes */
+.text-size-sm {
+  font-size: 0.875rem;
+}
+
+.text-size-base {
+  font-size: 1rem;
+}
+
+.text-size-lg {
+  font-size: 1.125rem;
+}
+
+.text-size-xl {
+  font-size: 1.25rem;
+}
+
+/* Accent Colors */
+[data-accent="indigo"] {
+  --accent: #6366f1;
+}
+
+[data-accent="blue"] {
+  --accent: #3b82f6;
+}
+
+[data-accent="purple"] {
+  --accent: #8b5cf6;
+}
+
+[data-accent="pink"] {
+  --accent: #ec4899;
+}
+
+[data-accent="green"] {
+  --accent: #10b981;
+}
