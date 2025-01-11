@@ -44,8 +44,8 @@ The project contains the following folders and files:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/footcricket05/my_portfolio_v2.git
+   cd my_portfolio_v2
    ```
 
 2. Install dependencies:
